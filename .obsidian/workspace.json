@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2f7e68638b510ebe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "프리코스 1주차/우아한 테크코스 프리코스 1주차.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c316eee51657a5c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "프리코스 1주차/jest에 대해서 학습해보자..md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프리코스 1주차/우아한 테크코스 프리코스 1주차.md",
+                "file": "프리코스 1주차/jest에 대해서 학습해보자..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프리코스 1주차/우아한 테크코스 프리코스 1주차.md",
+                "file": "프리코스 1주차/jest에 대해서 학습해보자..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프리코스 1주차/우아한 테크코스 프리코스 1주차.md"
+                "file": "프리코스 1주차/jest에 대해서 학습해보자..md"
               }
             }
           }
@@ -146,6 +171,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "69f9efd53faf7a32",
-  "lastOpenFiles": []
+  "active": "c316eee51657a5c9",
+  "lastOpenFiles": [
+    "10.png",
+    "9.png",
+    "8.png",
+    "7.png",
+    "6.png",
+    "5.png",
+    "4.png",
+    "3.png",
+    "스크린샷 2023-10-28 오후 1.48.37.png",
+    "스크린샷 2023-10-28 오후 1.46.48.png",
+    "프리코스 1주차/우아한 테크코스 프리코스 1주차.md",
+    "프리코스 1주차/jest에 대해서 학습해보자..md"
+  ]
 }
