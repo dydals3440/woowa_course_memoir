@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프리코스 1주차/jest에 대해서 학습해보자..md",
+                "file": "프리코스 1주차/우아한 테크코스 프리코스 1주차.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프리코스 1주차/jest에 대해서 학습해보자..md",
+                "file": "프리코스 1주차/우아한 테크코스 프리코스 1주차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프리코스 1주차/jest에 대해서 학습해보자..md",
+                "file": "프리코스 1주차/우아한 테크코스 프리코스 1주차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프리코스 1주차/jest에 대해서 학습해보자..md"
+                "file": "프리코스 1주차/우아한 테크코스 프리코스 1주차.md"
               }
             }
           }
@@ -173,17 +173,18 @@
   },
   "active": "c316eee51657a5c9",
   "lastOpenFiles": [
-    "10.png",
-    "9.png",
-    "8.png",
-    "7.png",
-    "6.png",
-    "5.png",
-    "4.png",
-    "3.png",
-    "스크린샷 2023-10-28 오후 1.48.37.png",
-    "스크린샷 2023-10-28 오후 1.46.48.png",
-    "프리코스 1주차/우아한 테크코스 프리코스 1주차.md",
-    "프리코스 1주차/jest에 대해서 학습해보자..md"
+    "프리코스 1주차/jest에 대해서 학습해보자..md",
+    "Img",
+    "Img/10.png",
+    "Img/9.png",
+    "Img/8.png",
+    "Img/7.png",
+    "Img/6.png",
+    "Img/5.png",
+    "Img/4.png",
+    "Img/3.png",
+    "Img/스크린샷 2023-10-28 오후 1.48.37.png",
+    "Img/스크린샷 2023-10-28 오후 1.46.48.png",
+    "프리코스 1주차/우아한 테크코스 프리코스 1주차.md"
   ]
 }
