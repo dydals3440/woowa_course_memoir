@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Mock과 Stub의 차이.md",
+                "file": "프리코스 2주차/4. Mock과 Stub의 차이.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Mock과 Stub의 차이.md",
+                "file": "프리코스 2주차/4. Mock과 Stub의 차이.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Mock과 Stub의 차이.md",
+                "file": "프리코스 2주차/4. Mock과 Stub의 차이.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Mock과 Stub의 차이.md"
+                "file": "프리코스 2주차/4. Mock과 Stub의 차이.md"
               }
             }
           }
@@ -171,10 +171,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c316eee51657a5c9",
+  "active": "1e7d9cb8072e5bc1",
   "lastOpenFiles": [
     "프리코스 2주차/우아한 테크코스 프리코스 1주차.md",
-    "4. Mock과 Stub의 차이.md",
+    "프리코스 2주차/4. Mock과 Stub의 차이.md",
     "프리코스 2주차/3. Jest Mock을 이용한 테스트 코드 (제품 정보 가져오기).md",
     "프리코스 2주차/2. jest mock 사용법.md",
     "프리코스 2주차/1. jest 기초 사용법.md",
