@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프리코스 1주차/우아한 테크코스 프리코스 1주차.md",
+                "file": "프리코스 2주차/우아한 테크코스 프리코스 1주차.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프리코스 1주차/우아한 테크코스 프리코스 1주차.md",
+                "file": "프리코스 2주차/우아한 테크코스 프리코스 1주차.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프리코스 1주차/우아한 테크코스 프리코스 1주차.md",
+                "file": "프리코스 2주차/jest mock 사용법.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프리코스 1주차/우아한 테크코스 프리코스 1주차.md",
+                "file": "프리코스 2주차/jest mock 사용법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프리코스 1주차/우아한 테크코스 프리코스 1주차.md",
+                "file": "프리코스 2주차/jest mock 사용법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프리코스 1주차/우아한 테크코스 프리코스 1주차.md"
+                "file": "프리코스 2주차/jest mock 사용법.md"
               }
             }
           }
@@ -173,8 +173,9 @@
   },
   "active": "c316eee51657a5c9",
   "lastOpenFiles": [
-    "프리코스 1주차/jest 기초 사용법.md",
-    "프리코스 1주차/우아한 테크코스 프리코스 1주차.md",
+    "프리코스 2주차/jest 기초 사용법.md",
+    "프리코스 2주차/jest mock 사용법.md",
+    "프리코스 2주차/우아한 테크코스 프리코스 1주차.md",
     "Img",
     "Img/10.png",
     "Img/9.png",
